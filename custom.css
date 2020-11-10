@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+img.Github{
+    width: 16px;
+    height: 16px;
+}
+
+img.LinkedIn{
+    width: 25px;
+    height: 20px;
+}
+
+td.contact{
+    text-align: left;
+    vertical-align: text-top;
+    width: 200px;
+    height: 100px;
+}
+
+td.about{
+    vertical-align: text-top;
+    padding:5px;
+    width: 400px;
+    height: 100px;
+}
